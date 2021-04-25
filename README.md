@@ -1,6 +1,8 @@
 # BooKings
 
 To run the project with Java 9+, set these VM options:
+
+(change PATH_TO_PROJECT)
 `--module-path "PATH_TO_PROJECT/BooKings/lib"`
 
 `--add-modules javafx.controls,javafx.fxml,javafx.base,javafx.web
