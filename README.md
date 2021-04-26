@@ -6,10 +6,10 @@ functionality can be divided into three main categories: map, statistics, view
 and compare properties.
 
 ## Authors:
-Jan Marczak
-Andras Horvath
-Jakub Grzelak
-Matteo Fornier
++ Jan Marczak
++ Andras Horvath
++ Jakub Grzelak
++ Matteo Fornier
 
 ### Running Instructions
 To run the project with Java 9+, set these VM options:
