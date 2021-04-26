@@ -1,10 +1,21 @@
-# BooKings
+# London Property Marketplace
 
+The London Property Marketplace named BooKing’s is
+an application for exploring properties from loaded datasets. Its core
+functionality can be divided into three main categories: map, statistics, view
+and compare properties.
+
+## Authors:
+Jan Marczak
+Andras Horvath
+Jakub Grzelak
+Matteo Fornier
+
+### Running Instructions
 To run the project with Java 9+, set these VM options:
 
 (change PATH_TO_PROJECT)
 `--module-path "PATH_TO_PROJECT/BooKings/lib"`
-
 `--add-modules javafx.controls,javafx.fxml,javafx.base,javafx.web
 --add-exports javafx.graphics/com.sun.javafx.sg.prism=ALL-UNNAMED
 --add-exports javafx.graphics/com.sun.prism=ALL-UNNAMED
