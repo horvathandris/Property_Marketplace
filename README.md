@@ -6,8 +6,8 @@ functionality can be divided into three main categories: map, statistics, view
 and compare properties.
 
 ## Authors:
-+ Jan Marczak
 + Andras Horvath
++ Jan Marczak
 + Jakub Grzelak
 + Matteo Fornier
 
